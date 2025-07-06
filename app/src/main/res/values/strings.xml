@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Donkey Player</string>
+    <string name="loading">Loading…</string>
+    <string name="refresh">Refresh</string>
+    <string name="home">Home</string>
+    <string name="back">Back</string>
+    <string name="file_upload">File Upload</string>
+    <string name="subtitle_upload">Upload Subtitle</string>
+    <string name="permission_storage">Storage permission is required to upload files</string>
+    <string name="no_app_available">No app available to open this file</string>
+</resources>
